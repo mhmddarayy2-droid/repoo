@@ -1,0 +1,18 @@
+{
+  "name": "DAILY REPORTING",
+  "short_name": "DailyRep",
+  "description": "سرویس گزارش‌گیری روزانه",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1a237e",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
